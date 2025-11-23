@@ -1,0 +1,8 @@
+{
+    "order_id": "order-1",
+    "drinkType": "latte",
+    "size": "S",
+    "milk": "whole",
+    "extras": "vanilla syrup",
+    "customer_name": "Nikhil"
+}

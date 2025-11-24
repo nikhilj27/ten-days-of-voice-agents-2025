@@ -1,8 +1,8 @@
 {
     "order_id": "order-1",
     "drinkType": "latte",
-    "size": "S",
-    "milk": "whole",
-    "extras": "vanilla syrup",
-    "customer_name": "Nikhil"
+    "size": "M",
+    "milk": "oat",
+    "extras": "cinnamon",
+    "customer_name": "Prathyksha"
 }

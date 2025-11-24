@@ -1,0 +1,22 @@
+[
+    {
+        "mood": "positive",
+        "energy": "energetic",
+        "goals": [
+            "complete a pending task",
+            "learn something new about AI",
+            "read ongoing book"
+        ],
+        "summary": "User is feeling positive and energetic, and plans to complete a task, learn about AI, and read their book.",
+        "timestamp": "2025-11-24T18:32:20.011155"
+    },
+    {
+        "mood": "lazy",
+        "energy": "low",
+        "goals": [
+            "rest"
+        ],
+        "summary": "The user is feeling lazy and low on energy, planning a rest day.",
+        "timestamp": "2025-11-24T18:37:47.969454"
+    }
+]

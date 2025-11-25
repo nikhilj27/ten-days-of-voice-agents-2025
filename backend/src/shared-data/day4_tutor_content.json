@@ -1,0 +1,74 @@
+[
+  {
+    "id": "variables",
+    "title": "Variables",
+    "summary": "Variables store values so you can reuse, modify, or reference them later in your program. They act like labeled containers that hold data.",
+    "sample_question": "What is a variable and why is it useful?"
+  },
+  {
+    "id": "loops",
+    "title": "Loops",
+    "summary": "Loops let you repeat an action multiple times without writing the same line of code again. Common loops include 'for' and 'while'.",
+    "sample_question": "Explain the difference between a for loop and a while loop."
+  },
+  {
+    "id": "functions",
+    "title": "Functions",
+    "summary": "Functions let you group code into reusable blocks. They help organize logic, avoid repetition, and make programs easier to maintain.",
+    "sample_question": "Why do we use functions in programming?"
+  },
+  {
+    "id": "conditionals",
+    "title": "Conditionals",
+    "summary": "Conditionals allow your program to make decisions using if/else statements. They let code run only when certain conditions are met.",
+    "sample_question": "What is the purpose of an if-else statement?"
+  },
+  {
+    "id": "arrays",
+    "title": "Arrays",
+    "summary": "Arrays store multiple values in a single container, accessed by index. They're useful for lists of related items.",
+    "sample_question": "What is an array and how do you access an element in it?"
+  },
+  {
+    "id": "objects",
+    "title": "Objects",
+    "summary": "Objects represent real-world things using properties and behaviors. They allow structured, organized data and form the basis of OOP.",
+    "sample_question": "What makes objects useful in object-oriented programming?"
+  },
+  {
+    "id": "classes",
+    "title": "Classes",
+    "summary": "Classes act like blueprints for creating objects. They define the shape and behavior that all objects of that type will have.",
+    "sample_question": "What is a class and how is it related to objects?"
+  },
+  {
+    "id": "recursion",
+    "title": "Recursion",
+    "summary": "Recursion is when a function calls itself to solve a smaller part of a problem. It is often used for problems with repeated substructure.",
+    "sample_question": "Explain recursion in simple terms and give an example."
+  },
+  {
+    "id": "data_structures",
+    "title": "Data Structures",
+    "summary": "Data structures like stacks, queues, and trees store data in specific ways that improve performance and organization.",
+    "sample_question": "What is a data structure and why do we need different types?"
+  },
+  {
+    "id": "algorithms",
+    "title": "Algorithms",
+    "summary": "Algorithms are step-by-step procedures for solving problems. Good algorithms are efficient, clear, and reliable.",
+    "sample_question": "What is an algorithm? Explain with a simple example."
+  },
+  {
+    "id": "big_o",
+    "title": "Big O Notation",
+    "summary": "Big O notation describes how the runtime or space usage of an algorithm grows as the input size increases.",
+    "sample_question": "What does Big O measure and why is it important?"
+  },
+  {
+    "id": "apis",
+    "title": "APIs",
+    "summary": "APIs allow different software systems to communicate. They define how data is requested, sent, and processed between applications.",
+    "sample_question": "What is an API and why do developers use them?"
+  }
+]

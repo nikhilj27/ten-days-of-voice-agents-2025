@@ -1,0 +1,18 @@
+{
+    "loops": [
+        {
+            "concept_id": "loops",
+            "timestamp": "2025-11-24T22:23:16.296479",
+            "score": 20.0,
+            "feedback": "I couldn't find many of the main ideas. Try to explain the concept in your own words, focusing on what it does and why it matters."
+        }
+    ],
+    "data_structures": [
+        {
+            "concept_id": "data_structures",
+            "timestamp": "2025-11-25T01:59:31.219619",
+            "score": 73.3,
+            "feedback": "Good attempt \u2014 you captured several important ideas."
+        }
+    ]
+}

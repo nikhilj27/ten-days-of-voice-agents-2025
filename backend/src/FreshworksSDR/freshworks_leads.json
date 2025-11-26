@@ -1,0 +1,22 @@
+{
+    "leads": [
+        {
+            "name": "Nikhil",
+            "email": "flipkart@gmail.com",
+            "company": "Flipkart",
+            "role": "Chief Marketing Officer",
+            "use_case": "Improving customer support and expanding audience reach",
+            "timeline": "Two to three months",
+            "timestamp": "2025-11-25T23:25:00.439689"
+        },
+        {
+            "name": "Nikhil",
+            "email": "abc@gmail.com",
+            "company": "Flint Infotech",
+            "role": "Chief Marketing Officer",
+            "use_case": "Combination of customer support and marketing automation",
+            "timeline": "2-3 months",
+            "timestamp": "2025-11-25T23:40:41.725694"
+        }
+    ]
+}

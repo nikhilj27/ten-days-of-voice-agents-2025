@@ -1,0 +1,78 @@
+{
+  "company_name": "Freshworks",
+  "short_intro": "Freshworks builds easy-to-use, affordable SaaS tools for customer support, sales, marketing, and IT teams. Our products are designed to help teams work smarter, faster, and with delight.",
+  
+  "target_audience": "Startups, SMBs, mid-market companies, and enterprise teams looking for fast, modern customer engagement and internal IT solutions.",
+
+  "products": [
+    {
+      "name": "Freshdesk",
+      "description": "Customer support software with ticketing, automation, chatbot, and multichannel support."
+    },
+    {
+      "name": "Freshsales",
+      "description": "A CRM and sales automation platform with AI insights, deal management, and pipeline visibility."
+    },
+    {
+      "name": "Freshmarketer",
+      "description": "Marketing automation for email campaigns, segmentation, and customer journey workflows."
+    },
+    {
+      "name": "Freshservice",
+      "description": "Cloud IT service management platform with incident, asset, and workflow automation."
+    }
+  ],
+
+  "pricing_overview": {
+    "note": "Freshworks follows a simple per-user, per-month subscription model. Pricing varies by product and plan tier.",
+    "common_details": [
+      "Most products offer a 14–21 day free trial.",
+      "Starter plans are affordable for small teams.",
+      "Advanced plans are available for enterprises.",
+      "No long-term contracts required."
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "What does Freshworks do?",
+      "keywords": ["what is freshworks", "what do you do", "product", "platform"],
+      "answer": "Freshworks provides cloud-based customer support, sales, marketing, and IT service management software. Our tools are designed to help teams work efficiently and deliver great customer experiences."
+    },
+    {
+      "question": "Do you have a free trial?",
+      "keywords": ["free", "trial", "demo", "test"],
+      "answer": "Yes! Most Freshworks products offer a free trial so you can explore features before subscribing."
+    },
+    {
+      "question": "How much does Freshworks cost?",
+      "keywords": ["price", "pricing", "cost", "plans", "fees"],
+      "answer": "Freshworks products follow simple per-user monthly pricing with different tiers. Pricing varies by product and features. I can help connect you to a specialist for exact numbers."
+    },
+    {
+      "question": "Who is Freshworks for?",
+      "keywords": ["who is this for", "audience", "customer", "team", "use"],
+      "answer": "Freshworks serves startups, SMBs, and enterprise teams. Our products are used by support, sales, marketing, and IT departments."
+    },
+    {
+      "question": "Do you integrate with other tools?",
+      "keywords": ["integration", "integrate", "connect", "apps"],
+      "answer": "Yes! Freshworks integrates with popular tools like Slack, WhatsApp, Shopify, Google Workspace, Office 365, and more depending on the product."
+    },
+    {
+      "question": "Is Freshworks easy to set up?",
+      "keywords": ["easy", "setup", "implement", "configure", "install"],
+      "answer": "Absolutely. Freshworks products are known for fast setup and user-friendly onboarding with minimal technical effort."
+    },
+    {
+      "question": "Does Freshworks offer automation?",
+      "keywords": ["automation", "automate", "ai", "bot"],
+      "answer": "Yes. Freshworks offers workflow automation, AI-driven suggestions, ticket routing, marketing automation, and chatbots depending on the product."
+    },
+    {
+      "question": "Is Freshworks secure?",
+      "keywords": ["secure", "security", "safe", "data"],
+      "answer": "Yes. Freshworks follows industry standards for data privacy, compliance, encryption, and security best practices."
+    }
+  ]
+}

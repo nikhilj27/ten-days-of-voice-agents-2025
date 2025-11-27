@@ -1,0 +1,47 @@
+[
+    {
+        "case_id": "FRD-1001",
+        "username": "arjun98",
+        "customer_name": "Arjun Mehta",
+        "security_id": "SEC-ARJ-9921",
+        "masked_card": "**** 4321",
+        "transaction_amount": 8299.5,
+        "merchant_name": "ElectroHub Online",
+        "location": "Bangalore, India",
+        "timestamp": "2025-01-15T18:42:00+05:30",
+        "security_question": "What is your favourite sport?",
+        "security_answer": "cricket",
+        "status": "confirmed_fraud",
+        "outcome_note": "Customer denied the transaction. Card blocked and dispute process (mock) started. Extra note: User denied making the transaction."
+    },
+    {
+        "case_id": "FRD-1002",
+        "username": "priyasingh20",
+        "customer_name": "Priya Singh",
+        "security_id": "SEC-PRI-7743",
+        "masked_card": "**** 5577",
+        "transaction_amount": 14999.0,
+        "merchant_name": "Global Travel Mart",
+        "location": "Delhi, India",
+        "timestamp": "2025-02-03T10:17:00+05:30",
+        "security_question": "What city were you born in?",
+        "security_answer": "jaipur",
+        "status": "pending_review",
+        "outcome_note": null
+    },
+    {
+        "case_id": "FRD-1003",
+        "username": "nikhil.j",
+        "customer_name": "Nikhil Jadhav",
+        "security_id": "SEC-RAH-6610",
+        "masked_card": "**** 9012",
+        "transaction_amount": 2199.0,
+        "merchant_name": "FoodKart",
+        "location": "Mumbai, India",
+        "timestamp": "2025-02-10T22:05:00+05:30",
+        "security_question": "What is your favourite color?",
+        "security_answer": "blue",
+        "status": "confirmed_fraud",
+        "outcome_note": "Customer denied the transaction. Card blocked and dispute process (mock) started. Extra note: User denied making the transaction."
+    }
+]

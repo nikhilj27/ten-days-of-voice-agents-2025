@@ -1,0 +1,82 @@
+[
+  {
+    "id": "item_veg_masala_maggi",
+    "name": "Veg Masala Maggi (4-pack)",
+    "category": "instant_food",
+    "price": 80.0,
+    "unit": "pack",
+    "tags": ["maggi", "noodles", "quick", "snack"]
+  },
+  {
+    "id": "item_milk_1l",
+    "name": "Toned Milk 1L",
+    "category": "dairy",
+    "price": 65.0,
+    "unit": "1L",
+    "tags": ["milk", "dairy", "breakfast"]
+  },
+  {
+    "id": "item_bread",
+    "name": "Brown Bread 400g",
+    "category": "bakery",
+    "price": 45.0,
+    "unit": "pack",
+    "tags": ["bread", "sandwich"]
+  },
+  {
+    "id": "item_eggs_6",
+    "name": "Farm Eggs (6 pcs)",
+    "category": "eggs",
+    "price": 60.0,
+    "unit": "6 pcs",
+    "tags": ["eggs", "protein", "breakfast"]
+  },
+  {
+    "id": "item_butter_100g",
+    "name": "Salted Butter 100g",
+    "category": "dairy",
+    "price": 55.0,
+    "unit": "100g",
+    "tags": ["butter", "bread", "cooking"]
+  },
+  {
+    "id": "item_onion_1kg",
+    "name": "Onion 1kg",
+    "category": "vegetables",
+    "price": 35.0,
+    "unit": "kg",
+    "tags": ["onion", "veggies"]
+  },
+  {
+    "id": "item_tomato_1kg",
+    "name": "Tomato 1kg",
+    "category": "vegetables",
+    "price": 40.0,
+    "unit": "kg",
+    "tags": ["tomato", "veggies"]
+  },
+  {
+    "id": "item_cheese_slices",
+    "name": "Cheese Slices (10 pcs)",
+    "category": "dairy",
+    "price": 120.0,
+    "unit": "pack",
+    "tags": ["cheese", "sandwich"]
+  },
+  {
+    "id": "item_coke_1_25",
+    "name": "Coca Cola 1.25L",
+    "category": "beverages",
+    "price": 75.0,
+    "unit": "bottle",
+    "tags": ["cold drink", "coke"]
+  },
+  {
+    "id": "item_icecream_tub",
+    "name": "Vanilla Ice Cream 700ml",
+    "category": "frozen",
+    "price": 220.0,
+    "unit": "tub",
+    "tags": ["dessert", "ice cream"]
+  }
+]

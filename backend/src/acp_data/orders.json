@@ -1,0 +1,40 @@
+{
+    "orders": [
+        {
+            "order_id": "ORD-21747E",
+            "items": [
+                {
+                    "id": "mug-001",
+                    "qty": 1
+                }
+            ],
+            "total": 250.0,
+            "currency": "INR",
+            "created_at": "2025-11-29T17:59:36.944942"
+        },
+        {
+            "order_id": "ORD-91AE4C",
+            "items": [
+                {
+                    "id": "hoodie-001",
+                    "qty": 1
+                }
+            ],
+            "total": 1299.0,
+            "currency": "INR",
+            "created_at": "2025-11-29T18:26:43.714411"
+        },
+        {
+            "order_id": "ORD-C6821F",
+            "items": [
+                {
+                    "id": "mug-002",
+                    "qty": 2
+                }
+            ],
+            "total": 600.0,
+            "currency": "INR",
+            "created_at": "2025-11-29T19:07:25.460559"
+        }
+    ]
+}

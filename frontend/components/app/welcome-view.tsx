@@ -1,4 +1,5 @@
 import { Button } from '@/components/livekit/button';
+import React from 'react';
 
 function WelcomeImage() {
   return (
@@ -28,6 +29,7 @@ export const WelcomeView = ({
   onStartCall,
   ref,
 }: React.ComponentProps<'div'> & WelcomeViewProps) => {
+  const [name, setName] = React.useState("");
   return (
     <div ref={ref}>
       <section className="bg-background flex flex-col items-center justify-center text-center">
@@ -36,6 +38,10 @@ export const WelcomeView = ({
         <p className="text-foreground max-w-prose pt-1 leading-6 font-medium">
           Chat live with your voice AI agent
         </p>
+
+        <div className="my-5 space-y-4">
+          <input placeholder='Enter your name' defaultValue={name} onChange={(e) => setName(e.target.value)} className='flex w-full rounded-md border bg-background text-sm file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:border-ring disabled:cursor-not-allowed disabled:opacity-50 transition-colors duration-200 outline-none aria-invalid:border-destructive aria-invalid:ring-destructive/20 aria-invalid:ring-[3px] border-input h-10 px-3 py-2' />
+        </div>
 
         <Button variant="primary" size="lg" onClick={onStartCall} className="mt-6 w-64 font-mono">
           {startButtonText}
